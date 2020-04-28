@@ -157,8 +157,14 @@ This website will maintain the syllabi for all computer science courses at Hunte
 <h3>
   <details>
   <summary>Graduate Courses</summary>
-  <br>
-  This is how you dropdown.
+    <ul>
+      <details>
+        <summary>CSCI 71010: Programming Languages and Their Implementation</summary>
+        <ul>
+          <summary>Fall 2012</summary>
+        </ul>
+      </details>
+    </ul>
   </details>
 </h3>
 
