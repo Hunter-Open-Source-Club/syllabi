@@ -4,17 +4,24 @@ This website will maintain the syllabi for all computer science courses at Hunte
 
 <h3>
   <details>
-  <summary>Undergraduate Courses</summary>
-    <ul>
-      <details>
-        <summary>CSCI 127: Introduction to Computer Science</summary>
-          <ul>
-            <details>
-              <summary>Spring 2020</summary>
-            </details>
-          </ul>
-      </details>
-      <li>CSCI 135: Software Analysis & Design I</li>
+    <summary>Undergraduate Courses</summary>
+      <ul>
+        <details>
+          <summary>CSCI 127: Introduction to Computer Science</summary>
+            <ul>
+              <details>
+                <summary>Spring 2020</summary>
+              </details>
+            </ul>
+        </details>
+        <details>
+          <summary>CSCI 135: Software Analysis & Design I</summary>
+            <ul>
+              <details>
+                <summary>Spring 2020</summary>
+              </details>
+            </ul>
+        </details> 
       <li>CSCI 150: Discrete Structures</li>
       <li>CSCI 160: Computer Architecture I</li>
       <li>CSCI 235: Software Analysis & Design II</li>
