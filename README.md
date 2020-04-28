@@ -6,7 +6,7 @@ This website will maintain the syllabi for all computer science courses at Hunte
   <details>
   <summary>Undergraduate Courses</summary>
     <ul>
-      <li>CSCI 127: Introduction to Computer Science</li>
+      [Link]<li>CSCI 127: Introduction to Computer Science</li>
       <li>CSCI 135: Software Analysis & Design I</li>
       <li>CSCI 150: Discrete Structures</li>
       <li>CSCI 160: Computer Architecture I</li>
