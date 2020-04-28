@@ -1,4 +1,4 @@
-## Welcome to Hunter College CS syllabi site!
+## Welcome to the Hunter College CS syllabi site!
 
 This website will maintain the syllabi for all computer science courses at Hunter College. Most of the syllabi here are for some of the undergraduate courses, but hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter
 
