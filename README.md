@@ -8,7 +8,6 @@ This website will maintain the syllabi for all computer science courses at Hunte
     <ul>
       <li>CSCI 127: Introduction to Computer Science</li>
     </ul>
-  <br>
   </details>
 </h3>
 
