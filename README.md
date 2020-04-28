@@ -8,7 +8,10 @@ This website will maintain the syllabi for all computer science courses at Hunte
     <ul>
       <details>
         <summary>CSCI 127: Introduction to Computer Science</summary>
-      </details
+          <details>
+            <summary>Spring 2020</summary>
+          </details>
+      </details>
       <li>CSCI 135: Software Analysis & Design I</li>
       <li>CSCI 150: Discrete Structures</li>
       <li>CSCI 160: Computer Architecture I</li>
