@@ -2,15 +2,11 @@
 
 This website will maintain the syllabi for all computer science courses at Hunter College. Most of the syllabi here are for some of the undergraduate courses, but hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter
 
-### Undergraduate Courses
-
-### Graduate Courses
-
 <h3>
   <details>
   <summary>Undergraduate Courses</summary>
   <br>
-  This is how you dropdown.
+  
   </details>
 </h3>
 
