@@ -161,7 +161,9 @@ This website will maintain the syllabi for all computer science courses at Hunte
       <details>
         <summary>CSCI 71010: Programming Languages and Their Implementation</summary>
         <ul>
-          <summary>Fall 2012</summary>
+          <details>
+            <summary>Fall 2012</summary>
+          </details>
         </ul>
       </details>
     </ul>
