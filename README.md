@@ -13,6 +13,11 @@ This website will maintain the syllabi for all computer science courses at Hunte
       <li>CSCI 235: Software Analysis & Design II</li>
       <li>CSCI 260: Computer Architecture II</li>
       <li>CSCI 265: Computer Theory I</li>
+      <li>CSCI 335: Software Analysis & Design III</li>
+      <li>CSCI 340: Operating Systems</li>
+      <li>CSCI 365: Computer Architecture III</li>
+      <li>CSCI 350: Artificial Intelligence</li>
+      <li>CSCI 353: Machine Learning</li>
     </ul>
   </details>
 </h3>
