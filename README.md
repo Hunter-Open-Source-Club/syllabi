@@ -7,7 +7,7 @@ This website will maintain the syllabi for all computer science courses at Hunte
 ### Graduate Courses
 
 <details>
-<summary>How do I dropdown?</summary>
+### <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
 </details>
