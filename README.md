@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Hunter College CS syllabi site!
 
-You can use the [editor on GitHub](https://github.com/RichAguil/HunterCS_CourseSyllabi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website will maintain the syllabi for all computer science courses at Hunter College. Most of the syllabi here are for some of the undergraduate courses, but hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Undergraduate Courses
+
+### Graduate Courses
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 ### Markdown
 
