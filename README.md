@@ -10,10 +10,7 @@ This website will maintain the syllabi for all computer science courses at Hunte
           <summary>CSCI 127: Introduction to Computer Science</summary>
             <ul>
               <details>
-                <summary>Spring 2020</summary>
-                  <ul>
-                    <a href = "https://richaguil.github.io/HunterCS_CourseSyllabi/CS%20127/Spring%202020/CSci%20127%2C%20Introduction%20to%20Computer%20Science%2C%20Hunter%20College%2C%20CUNY%2C%20Spring%202020.pdf"></a>
-                  </ul>
+                <summary><a href = "https://richaguil.github.io/HunterCS_CourseSyllabi/CS%20127/Spring%202020/CSci%20127%2C%20Introduction%20to%20Computer%20Science%2C%20Hunter%20College%2C%20CUNY%2C%20Spring%202020.pdf">Spring 2020</a></summary>
               </details>
             </ul>
         </details>
