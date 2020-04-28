@@ -14,6 +14,14 @@ This website will maintain the syllabi for all computer science courses at Hunte
   </details>
 </h3>
 
+<h3>
+  <details>
+  <summary>Graduate Courses</summary>
+  <br>
+  This is how you dropdown.
+  </details>
+</h3>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
