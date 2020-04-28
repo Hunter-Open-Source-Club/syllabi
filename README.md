@@ -21,17 +21,31 @@ This website will maintain the syllabi for all computer science courses at Hunte
                 <summary>Spring 2020</summary>
               </details>
             </ul>
-        </details> 
-      <li>CSCI 150: Discrete Structures</li>
-      <li>CSCI 160: Computer Architecture I</li>
-      <li>CSCI 235: Software Analysis & Design II</li>
-      <li>CSCI 260: Computer Architecture II</li>
-      <li>CSCI 265: Computer Theory I</li>
-      <li>CSCI 335: Software Analysis & Design III</li>
-      <li>CSCI 340: Operating Systems</li>
-      <li>CSCI 365: Computer Architecture III</li>
-      <li>CSCI 350: Artificial Intelligence</li>
-      <li>CSCI 353: Machine Learning</li>
+        </details>
+        <details>
+          <summary>CSCI 150: Discrete Structures</summary>
+            <ul>
+              <details>
+                <summary>Spring 2020</summary>
+              </details>
+            </ul>
+        </details>
+        <details>
+          <summary>CSCI 160: Computer Architecture I</summary>
+            <ul>
+              <details>
+                <summary>Spring 2020</summary>
+              </details>
+            </ul>
+        </details>
+        <details>
+          <summary>CSCI 235: Software Analysis & Design II</summary>
+            <ul>
+              <details>
+                <summary>Spring 2020</summary>
+              </details>
+            </ul>
+        </details>         
     </ul>
   </details>
 </h3>
