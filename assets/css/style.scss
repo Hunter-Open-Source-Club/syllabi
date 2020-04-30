@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+#container {
+	font-size: 1.17em;
+}
+
+.courses {
+	margin: 1em 0 1em 0;
+	padding-left: 40px;
+}
+
+ul {
+	margin-top: 0.3em;
+	margin-bottom: 0.6em;
+}
+
+ul p {
+	font-size: 0.9em;
+	margin-top: 0;
+	margin-bottom: 0.2em;
+}
+
+li {
+	margin-left: 1em;
+}
+
+summary {
+	font-weight: normal;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	color: $header;
+	letter-spacing: -0.03em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+}
