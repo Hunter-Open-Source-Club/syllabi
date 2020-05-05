@@ -75,5 +75,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>ChacaPatrick</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/robbyoconnor">
+				<img src="https://avatars2.githubusercontent.com/u/23088?s=460&u=02ba9a74c1af03782b6faf1dc5abee1ce635dc1b&v=4" width="100px;" alt=""/><br>
+				<sub><b>robbyoconnor</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
