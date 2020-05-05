@@ -33,7 +33,7 @@ The courses currently missing are as follows:
 * CSCI 49380 - Intro to Reactive Programming
 * All graduate courses
 
-## Contributers
+## Contributors
 
 Thank you to anyone that's helped out, we <3 you!
 
