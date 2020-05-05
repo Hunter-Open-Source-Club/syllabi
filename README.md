@@ -89,5 +89,17 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>MarceloDamian</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/saarhaber">
+				<img src="https://avatars0.githubusercontent.com/u/37675905?s=460&u=95ea9fb4287ce3cbb05ac29ab3aa85af6e8e761d&v=4" width="100px;" alt=""/><br>
+				<sub><b>saarhaber</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="http://github.com/sajarindider">
+				<img src="https://avatars3.githubusercontent.com/u/15092743?s=460&u=2f82f1c0850e51f6e682e11039e83bba8f11a33a&v=4" width="100px;" alt=""/><br>
+				<sub><b>sajarindider</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
