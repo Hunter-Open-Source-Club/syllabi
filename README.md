@@ -58,6 +58,12 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 		<td align="center">
+			<a href="https://github.com/rvente">
+				<img src="https://avatars1.githubusercontent.com/u/21066644?s=460&u=7f99b16845b8582df05e395ca5ddc024486969f6&v=4" width="100px;" alt=""/><br>
+				<sub><b>rvente</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
 			<a href="https://github.com/kkhan01">
 				<img src="https://avatars2.githubusercontent.com/u/22206867?s=460&u=6976a13e1988144b1b1440d576b885a02a263847&v=4" width="100px;" alt=""/><br>
 				<sub><b>kkhan01</b></sub>
