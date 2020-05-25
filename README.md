@@ -101,5 +101,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>sajarindider</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/wongjessica">
+				<img src="https://avatars2.githubusercontent.com/u/39626651?s=460&u=7290591317f209400c83192fa53a510899d2f49b&v=4" width="100px;" alt=""/><br>
+				<sub><b>wongjessica</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
