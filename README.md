@@ -15,7 +15,6 @@ The courses currently missing are as follows:
 * CSCI 39545 - VR, AR, Mixed Reality
 * CSCI 39546 - The Ethic Challenges of Information Technology
 * CSCI 39548 - Practical Web Development
-* CSCI 39554 - Topics: Networking
 * CSCI 39562 - Advanced Discrete Structures
 * CSCI 39575 - Graph Theory
 * CSCI 39582 - Topics:Computer Forensics
