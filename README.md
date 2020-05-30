@@ -17,7 +17,6 @@ The courses currently missing are as follows:
 * CSCI 39548 - Practical Web Development
 * CSCI 39562 - Advanced Discrete Structures
 * CSCI 39575 - Graph Theory
-* CSCI 39582 - Topics:Computer Forensics
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
 * CSCI 39596 - Advanced Networks and Cloud
