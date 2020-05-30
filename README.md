@@ -10,7 +10,6 @@ If you have any syllabi to send in, you can use [this form](https://forms.gle/t7
 
 The courses currently missing are as follows:
 
-* CSCI 35000 - Artificial Intelligence (w/ Prof. Epstein)
 * CSCI 35300 - Machine Learning
 * CSCI 37200 - Logic and Computers (Formal Methods)
 * CSCI 39545 - VR, AR, Mixed Reality
@@ -105,6 +104,12 @@ Thank you to anyone that's helped out, we <3 you!
 			<a href="https://github.com/wongjessica">
 				<img src="https://avatars2.githubusercontent.com/u/39626651?s=460&u=7290591317f209400c83192fa53a510899d2f49b&v=4" width="100px;" alt=""/><br>
 				<sub><b>wongjessica</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://github.com/AjaniStewart">
+				<img src="https://avatars2.githubusercontent.com/u/20689354?s=460&u=5be7d70179ddae10b76234ced49a7e36b5d449e3&v=4" width="100px;" alt=""/><br>
+				<sub><b>AjaniStewart</b></sub>
 			</a><br>
 		</td>
 	</tr>
