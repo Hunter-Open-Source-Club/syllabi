@@ -16,9 +16,10 @@ layout: default
     <script src="/assets/scripts/populate.js"></script>
 
     <script>
-     const files = {{site.static_files | jsonify}}
-     const courses = files.filter(file => file.path.startsWith("/assets/courses/"))
-     main(courses)
+     siteurl = "{{site.url}}";
+     const files = {{site.static_files | jsonify}};
+     const courses = files.filter(file => file.path.startsWith("/assets/courses/"));
+     main(siteurl, courses);
     </script>
   </section>
 </div>
