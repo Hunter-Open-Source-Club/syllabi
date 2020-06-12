@@ -1,0 +1,16 @@
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-default-layout
+
+# markdown type
+markdown: redcarpet
+
+# site settings
+url: 'http://syllabi.hunterosc.org/'
+basurl: ''
