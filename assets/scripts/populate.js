@@ -60,5 +60,12 @@ const main = (siteurl, files, lookup) => {
   const restructured_lookup = restructure_lookup(lookup);
   const reduced_files = reducer(files);
   const data = mergeDeep(restructured_lookup, reduced_files);
+
+  var everyChild = document.querySelectorAll("#container .courses");
+  for (var i = 0; i < everyChild.length; i++) {
+    const id = everyChild[i].getAttribute("id");
+
+    everyChild[i].innerHTML = "inject";
+  }
   // document.getElementById("container").innerHTML = siteurl;
 };
