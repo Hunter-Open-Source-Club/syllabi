@@ -10,7 +10,22 @@ layout: default
 	<p>This website will contain the syllabi for all computer science courses at Hunter College. Most of the syllabi here are for some of the undergraduate courses, but hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter</p>
 
 	<div id="container">
-
+      <details open>
+		<summary>CS Major Core Courses</summary>
+        <div id="cs-major-core-courses"></div>
+      </details>
+      <details open>
+		<summary>CS Math Collateral</summary>
+        <div id="cs-math-collateral"></div>
+      </details>
+      <details open>
+		<summary>CS Electives</summary>
+        <div id="cs-electives"></div>
+      </details>
+      <details open>
+		<summary>CS Non-Major Electives</summary>
+        <div id="cs-non-major-electives"></div>
+      </details>
 	</div>
 
     <script src="/assets/scripts/populate.js"></script>
@@ -18,8 +33,9 @@ layout: default
     <script>
      siteurl = "{{site.url}}";
      const files = {{site.static_files | jsonify}};
+     const lookup = {{site.data.map | jsonify}};
      const courses = files.filter(file => file.path.startsWith("/assets/courses/"));
-     main(siteurl, courses);
+     main(siteurl, courses, lookup);
     </script>
   </section>
 </div>
