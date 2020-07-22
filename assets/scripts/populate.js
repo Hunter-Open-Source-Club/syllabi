@@ -31,6 +31,24 @@ function mergeDeep(target, ...sources) {
   return mergeDeep(target, ...sources);
 }
 
+/* assumes syllabus is of the form: ..._professor_syllabus_semester,
+ where ... can be anything */
+function prettify(syllabus)
+{
+  if(syllabus == null) return;
+
+  const words = syllabus.split('_');
+  if(words.length < 3) {
+    console.log("Invalid filename.");
+    return syllabus;
+  }
+
+  const semester = words[words.length - 1];
+  const professor = words[words.length - 1 - 2];
+
+  return professor + " (" + semester + ")";
+}
+
 //=============================================================
 // actual populate.js
 const restructure_lookup = lookup =>
@@ -90,7 +108,7 @@ const main = (siteurl, files, lookup) => {
           const ul = document.createElement("ul");
           const li = document.createElement("li");
           const a = document.createElement("a");
-          const link = document.createTextNode(syllabus);
+          const link = document.createTextNode(prettify(syllabus));
           a.appendChild(link);
           a.title = `Open ${syllabus} PDF`;
           a.href = info.syllabi[syllabus].path;

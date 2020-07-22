@@ -269,7 +269,8 @@ ul p {
 li a {
   font-size: 0.9em;
   margin-top: 0;
-  margin-bottom: 0.2em; }
+  margin-bottom: 0.2em;
+  text-transform: capitalize; }
 
 li {
   margin-left: 1em; }
