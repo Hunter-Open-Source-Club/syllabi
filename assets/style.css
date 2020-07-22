@@ -266,6 +266,11 @@ ul p {
   margin-top: 0;
   margin-bottom: 0.2em; }
 
+li a {
+  font-size: 0.9em;
+  margin-top: 0;
+  margin-bottom: 0.2em; }
+
 li {
   margin-left: 1em; }
 
