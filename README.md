@@ -1,10 +1,10 @@
 ## Welcome to the Hunter College CS syllabi directory!
 
-This website will contain the syllabi for all computer science courses at Hunter College. Most of the syllabi here are for some of the undergraduate courses, but hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter.
+This website contains the syllabi for computer science courses at Hunter College. Hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter.
 
-The site can currently be found at [this](https://richaguil.github.io/HunterCS_CourseSyllabi/) address.
+The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunterosc.org).
 
-If you have any syllabi to send in, you can use [this form](https://forms.gle/t7dsacuC3i9JgFxu6).
+If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section. Alternatively, you can use [this *rarely checked* form](https://forms.gle/t7dsacuC3i9JgFxu6).
 
 ## Missing Syllabi
 
