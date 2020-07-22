@@ -30,6 +30,34 @@ The courses currently missing are as follows:
 * CSCI 49380 - Intro to Reactive Programming
 * All graduate courses
 
+## Usage
+
+### Adding new syllabi
+
+First check to see if the course is includes in [./_data/map.json](./_data/map.json). Then proceed below accordingly:
+
+#### Not Included
+
+That is fine, just add the course following the json schema and then you can proceed to the *Included* step!
+
+#### Included
+
+##### PDF
+Add the pdf to [./assets/courses](./assets/courses):
+
+It should be added into a folder with the course number as the folder, replacing the spaces with
+underscores `_` (eg for `"CS 127": "Introduction to Computer Science"`, the folder is `CS_127`), and
+then the pdf name should start with the course number as the folder, removing the spaces (eg for
+`"CS 127": "Introduction to Computer Science"`, the suffix of the file is `CS127`), and ensure the
+extension ends with `.pdf`. It would be good to include the professor and semester of the syllabus
+in the filename in between the suffix and extension segregated by underscores `_`. Eg:
+`assets/courses/CS_127/CS127_ligorio_syllabus_s20.pdf`. This helps us gleam more information at a
+glance and have multiple syllabi per course.
+
+##### Links
+
+Links are not supported as of yet.
+
 ## Contributors
 
 Thank you to anyone that's helped out, we <3 you!
