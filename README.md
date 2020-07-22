@@ -138,5 +138,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>AjaniStewart</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/lohs">
+				<img src="https://avatars0.githubusercontent.com/u/55119191?s=400&v=4" width="100px;" alt=""/><br>
+				<sub><b>lohs</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
