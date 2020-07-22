@@ -110,7 +110,7 @@ const main = (siteurl, files, lookup) => {
           const a = document.createElement("a");
           const link = document.createTextNode(prettify(syllabus));
           a.appendChild(link);
-          a.title = `Open ${syllabus} PDF`;
+          a.title = `Open ${syllabus}.pdf`;
           a.href = info.syllabi[syllabus].path;
           li.appendChild(a);
           ul.appendChild(li);
