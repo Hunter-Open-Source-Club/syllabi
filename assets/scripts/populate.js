@@ -39,7 +39,7 @@ const restructure_lookup = lookup =>
       (stored, course) => ({
         ...stored,
         [course.replace(" ", "")]: {
-          course_info: course + ":" + lookup[course_type][course],
+          course_info: course + ": " + lookup[course_type][course],
           course_type
         }
       }),
