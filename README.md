@@ -30,31 +30,31 @@ The courses currently missing are as follows:
 * CSCI 49380 - Intro to Reactive Programming
 * All graduate courses
 
-## Usage
+## Adding New Syllabi
 
-### Adding new syllabi
+First check to see if the course is included in [./_data/map.json](./_data/map.json). Then proceed below accordingly:
 
-First check to see if the course is includes in [./_data/map.json](./_data/map.json). Then proceed below accordingly:
+### Not Included
 
-#### Not Included
+That is fine, just:
+1. add the course following the json schema, and
+2. create a corresponding folder for the course (in the format described in step 1 of the section titled `PDFs`, below).
 
-That is fine, just add the course following the json schema and then you can proceed to the *Included* step!
+Now you can proceed to the *Included* step!
 
-#### Included
+### Included
 
-##### PDF
-Add the pdf to [./assets/courses](./assets/courses):
+#### PDFs
+Use the following procedure to add your PDF file:
 
-It should be added into a folder with the course number as the folder, replacing the spaces with
-underscores `_` (eg for `"CS 127": "Introduction to Computer Science"`, the folder is `CS_127`), and
-then the pdf name should start with the course number as the folder, removing the spaces (eg for
-`"CS 127": "Introduction to Computer Science"`, the suffix of the file is `CS127`), and ensure the
-extension ends with `.pdf`. It would be good to include the professor and semester of the syllabus
-in the filename in between the suffix and extension segregated by underscores `_`. Eg:
-`assets/courses/CS_127/CS127_ligorio_syllabus_s20.pdf`. This helps us gleam more information at a
-glance and have multiple syllabi per course.
+1. Find the corresponding folder for the course in [./assets/courses](./assets/courses), and move the PDF there.
+	- The folders are named after the course number, e.g. for `"CS 127": "Introduction to Computer Science"`, the folder title would be `CS_127`. Note that spaces are replaced with underscores.
 
-##### Links
+2. The filename of your PDF should follow this format: `CS127_Ligorio_syllabus_s20.pdf`, or, more generally:
+	- *\<course code\>*\_*\<professor\>*\_syllabus_*\<semester\>*.pdf
+	- prefer to capitalize the course code and the professor's name, though this is not strictly necessary.
+
+#### Links
 
 Links are not supported as of yet.
 
