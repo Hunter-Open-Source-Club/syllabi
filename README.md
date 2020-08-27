@@ -10,10 +10,6 @@ If you have any syllabi to send in, please send us a pull request following the 
 
 The courses currently missing are as follows:
 
-* CSCI 35300 - Machine Learning
-* CSCI 37200 - Logic and Computers (Formal Methods)
-* CSCI 39545 - VR, AR, Mixed Reality
-* CSCI 39546 - The Ethic Challenges of Information Technology
 * CSCI 39548 - Practical Web Development
 * CSCI 39562 - Advanced Discrete Structures
 * CSCI 39575 - Graph Theory
