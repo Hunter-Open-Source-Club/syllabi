@@ -4,7 +4,7 @@ This website contains the syllabi for computer science courses at Hunter College
 
 The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunterosc.org).
 
-If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section. Alternatively, you can use [this *rarely checked* form](https://forms.gle/t7dsacuC3i9JgFxu6).
+If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section. Alternatively, you can use [*this form*](https://forms.gle/kadQSfg3Hcmxtsho9).
 
 ## Missing Syllabi
 
