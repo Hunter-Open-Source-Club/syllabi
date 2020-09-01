@@ -146,4 +146,12 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 	</tr>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/adradan/">
+				<img src="https://avatars1.githubusercontent.com/u/22109143?s=460&v=4" width="100px;" alt=""/><br>
+				<sub><b>adradan</b></sub>
+			</a><br>
+		</td>
+	</tr>
 </table>
