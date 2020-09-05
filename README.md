@@ -153,5 +153,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>adradan</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/Deondrede">
+				<img src="https://avatars3.githubusercontent.com/u/38331348?s=460&u=909336265bd57b9f533b6c2ff43c91b85caa7a6e&v=4" width="100px;" alt=""/><br>
+				<sub><b>Deondrede</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
