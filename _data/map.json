@@ -61,11 +61,11 @@
     "CS 740": "Computer Modeling and Simulation"
   },
   "cs-non-major-electives": {
-    "CS 12000": "Introduction to Computers",
-    "CS 12100": "Computers and Money: Quantitative Reasoning in Context",
-    "CS 13200": "Practical Unix Programming",
-    "CS 13300": "Programming for Everyone",
-    "CS 23200": "Relational Databases and SQL Programming",
-    "CS 23300": "Programming Projects Seminar for Minors"
+    "CS 120": "Introduction to Computers",
+    "CS 121": "Computers and Money: Quantitative Reasoning in Context",
+    "CS 132": "Practical Unix Programming",
+    "CS 133": "Programming for Everyone",
+    "CS 232": "Relational Databases and SQL Programming",
+    "CS 233": "Programming Projects Seminar for Minors"
   }
 }
