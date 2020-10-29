@@ -157,5 +157,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Deondrede</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/La-Nique">
+				<img src="https://avatars3.githubusercontent.com/u/54916166?s=400&u=8f3948009f1dfb021c87efe7494728fe9d580d58&v=4" width="100px;" alt=""/><br>
+				<sub><b>La-Nique</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
