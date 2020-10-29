@@ -10,7 +10,6 @@ If you have any syllabi to send in, please send us a pull request following the 
 
 The courses currently missing are as follows:
 
-* CSCI 39548 - Practical Web Development
 * CSCI 39562 - Advanced Discrete Structures
 * CSCI 39575 - Graph Theory
 * CSCI 39583 - Topics:Cloud Computing
@@ -22,7 +21,6 @@ The courses currently missing are as follows:
 * CSCI 49375 - Network Security
 * CSCI 49376 - Big Data Technology
 * CSCI 49377 - Deep Learning
-* CSCI 49380 - Intro to Reactive Programming
 * All graduate courses
 
 ## Adding New Syllabi
