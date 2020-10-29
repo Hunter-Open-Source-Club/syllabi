@@ -80,6 +80,8 @@ const restructure_data = (lookup, data) => {
     {}
   );
   Object.keys(data).reduce((stored, current) => {
+    console.log(current); /* rm */
+    console.log(data[current]); /* rm */
     ret[data[current].course_type].push(data[current]);
   }, {});
 
