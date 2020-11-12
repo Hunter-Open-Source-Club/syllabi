@@ -16,9 +16,7 @@ The courses currently missing are as follows:
 * CSCI 39585 - Android Application Development
 * CSCI 39596 - Advanced Networks and Cloud
 * CSCI 41500 - Data Communications and Networking
-* CSCI 46000 - Advanced Programming Languages
 * CSCI 49355 - Algorithm Design & Analysis
-* CSCI 49375 - Network Security
 * CSCI 49376 - Big Data Technology
 * CSCI 49377 - Deep Learning
 * All graduate courses
