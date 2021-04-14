@@ -162,5 +162,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>La-Nique</b></sub>
 			</a><br>
 		</td>
+				<td align="center">
+			<a href="https://github.com/lxwooxy">
+				<img src="https://avatars.githubusercontent.com/u/69057359?v=4" width="100px;" alt=""/><br>
+				<sub><b>lxwooxy</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
