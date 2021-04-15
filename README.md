@@ -162,10 +162,16 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>La-Nique</b></sub>
 			</a><br>
 		</td>
-				<td align="center">
+		<td align="center">
 			<a href="https://github.com/lxwooxy">
 				<img src="https://avatars.githubusercontent.com/u/69057359?v=4" width="100px;" alt=""/><br>
 				<sub><b>lxwooxy</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://github.com/V993">
+				<img src="https://avatars.githubusercontent.com/u/47122021?v=4" width="100px;" alt=""/><br>
+				<sub><b>Leonardo Matone</b></sub>
 			</a><br>
 		</td>
 	</tr>
