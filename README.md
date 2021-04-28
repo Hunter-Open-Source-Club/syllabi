@@ -168,7 +168,13 @@ Thank you to anyone that's helped out, we <3 you!
 		<td align="center">
 			<a href="https://github.com/V993">
 				<img src="https://avatars.githubusercontent.com/u/47122021?v=4" width="100px;" alt=""/><br>
-				<sub><b>Leonardo Matone</b></sub>
+				<sub><b>V993</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Lupercio421">
+				<img src="https://avatars.githubusercontent.com/u/41970268?v=4" width="100px;" alt=""/><br>
+				<sub><b>Lupercio421</b></sub>
 			</a><br>
 		</td>
 	</tr>
