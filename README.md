@@ -182,4 +182,12 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 	</tr>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/jayjayh">
+				<img src="https://avatars.githubusercontent.com/u/26288542?v=4" width="100px;" alt=""/><br>
+				<sub><b>jayjayh</b></sub>
+			</a><br>
+		</td>
+	</tr>
 </table>
