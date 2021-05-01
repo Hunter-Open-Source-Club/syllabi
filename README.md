@@ -11,11 +11,9 @@ If you have any syllabi to send in, please send us a pull request following the 
 The courses currently missing are as follows:
 
 * CSCI 39541 - Basics of Game Engines
-* CSCI 39562 - Advanced Discrete Structures
 * CSCI 39575 - Graph Theory
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
-* CSCI 39596 - Advanced Networks and Cloud
 * CSCI 49376 - Big Data Technology
 * CSCI 49377 - Deep Learning
 
