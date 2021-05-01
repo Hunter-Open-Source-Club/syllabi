@@ -175,5 +175,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Lupercio421</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/KamilSachryn">
+				<img src="https://avatars.githubusercontent.com/u/41388133?v=4" width="100px;" alt=""/><br>
+				<sub><b>KamilSachryn</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
