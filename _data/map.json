@@ -27,6 +27,7 @@
     "CS 365": "Computer Theory II",
     "CS 372": "Logic and Computers (Formal Methods)",
     "CS 39541": "Basics of Game Engines",
+    "CS 39542": "Intro to Data Science",
     "CS 39543": "Intro to Data Mining",
     "CS 39544": "Digital Product Development",
     "CS 39545": "VR, AR, Mixed Reality",
@@ -62,6 +63,7 @@
     "CS 49378": "Distributed Systems & Cloud",
     "CS 49379": "Intro to Blockchain",
     "CS 49380": "Intro to Reactive Programming",
+    "CS 49381": "Intro of Computer Security",
     "CS 71010": "Programming Languages and Their Implementation",
     "CS 740": "Computer Modeling and Simulation"
   },
