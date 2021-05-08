@@ -191,5 +191,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>jayjayh</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/seamus-hunter">
+				<img src="https://avatars.githubusercontent.com/u/72629167?v=4" width="100px;" alt=""/><br>
+				<sub><b>seamus-hunter</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
