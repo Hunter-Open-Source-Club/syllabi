@@ -197,5 +197,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>seamus-hunter</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/Talhaabid">
+				<img src="https://avatars.githubusercontent.com/u/15316071?v=4" width="100px;" alt=""/><br>
+				<sub><b>TalhaAbid</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
