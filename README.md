@@ -5,19 +5,16 @@ This website contains the syllabi for computer science courses at Hunter College
 The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunterosc.org).
 
 If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section. Alternatively, you can use [*this form*](https://forms.gle/kadQSfg3Hcmxtsho9).
-
+ 
 ## Missing Syllabi
 
 The courses currently missing are as follows:
 
-* CSCI 39541 - Basics of Game Engines
-* CSCI 39542 - Intro to Data Science
 * CSCI 39575 - Graph Theory
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
 * CSCI 49376 - Big Data Technology
 * CSCI 49377 - Deep Learning
-* CSCI 49381 - Intro of Computer Security
 
 ## Adding New Syllabi
 
@@ -201,6 +198,12 @@ Thank you to anyone that's helped out, we <3 you!
 			<a href="https://github.com/Talhaabid">
 				<img src="https://avatars.githubusercontent.com/u/15316071?v=4" width="100px;" alt=""/><br>
 				<sub><b>TalhaAbid</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://gitlab.com/uzluisf">
+				<img src="https://gitlab.com/uploads/-/system/user/avatar/2474912/avatar.png" width="100px;" alt=""/><br>
+				<sub><b>uzluisf</b></sub>
 			</a><br>
 		</td>
 	</tr>
