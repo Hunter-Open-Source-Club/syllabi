@@ -107,9 +107,9 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 		<td align="center">
-			<a href="http://github.com/sajarindider">
+			<a href="https://github.com/sajarin">
 				<img src="https://avatars3.githubusercontent.com/u/15092743?s=460&u=2f82f1c0850e51f6e682e11039e83bba8f11a33a&v=4" width="100px;" alt=""/><br>
-				<sub><b>sajarindider</b></sub>
+				<sub><b>sajarin</b></sub>
 			</a><br>
 		</td>
 		<td align="center">
