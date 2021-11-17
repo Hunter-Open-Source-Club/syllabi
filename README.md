@@ -206,5 +206,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>uzluisf</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://www.linkedin.com/in/unis-ing">
+				<img src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" width="100px;" alt=""/><br>
+				<sub><b>Eunice Ng</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
