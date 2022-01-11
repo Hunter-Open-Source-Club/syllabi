@@ -215,5 +215,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Eunice Ng</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/ashfaku">
+				<img src="https://avatars.githubusercontent.com/u/83651159?v=4" width="100px;" alt=""/><br>
+				<sub><b>ashfaku</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
