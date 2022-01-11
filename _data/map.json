@@ -74,5 +74,9 @@
     "CS 133": "Programming for Everyone",
     "CS 232": "Relational Databases and SQL Programming",
     "CS 233": "Programming Projects Seminar for Minors"
+  },
+  "cs-daedalus-honors": {
+    "CS 135 Honors": "Software Analysis & Design I",
+    "CS 235 Honors": "Software Analysis & Design II"
   }
 }
