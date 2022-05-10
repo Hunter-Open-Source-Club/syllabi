@@ -21,31 +21,17 @@ The courses currently missing are as follows:
 
 ## Adding New Syllabi
 
-First check to see if the course is included in [./_data/map.json](./_data/map.json). Then proceed below accordingly:
+NOTE: we don't support URLs to syllabi just yet.
 
-### Not Included
+### New Courses
+If adding a syllabus for a new course that isn't listed on the webpage, add the course name to the [JSON schema](./_data/map.json) and create a new folder for it within the [courses/](./assets/courses) folder. Make sure the folder's name is appropriately formatted (e.g. `CS_127`) -- when in doubt follow the pattern of the other folders.
 
-That is fine, just:
-1. add the course following the json schema, and
-2. create a corresponding folder for the course (in the format described in step 1 of the section titled `PDFs`, below).
+### Existing Courses
+Move your syllabus file into the corresponding course folder within [courses/](./assets/courses).
 
-Now you can proceed to the *Included* step!
-
-### Included
-
-#### PDFs
-Use the following procedure to add your PDF file:
-
-1. Find the corresponding folder for the course in [./assets/courses](./assets/courses), and move the PDF there.
-	- The folders are named after the course number, e.g. for `"CS 127": "Introduction to Computer Science"`, the folder title would be `CS_127`. Note that spaces are replaced with underscores.
-
-2. The filename of your PDF should follow this format: `CS127_Ligorio_syllabus_s20.pdf`, or, more generally:
-	- *\<course code\>*\_*\<professor\>*\_syllabus_*\<semester\>*.pdf
-	- prefer to capitalize the course code and the professor's name, though this is not strictly necessary.
-
-#### Links
-
-Links are not supported as of yet.
+The filename of your PDF should follow this format: `CS127_Ligorio_syllabus_s20.pdf`, or, more generally:
+* `<course code>_<professor>_syllabus_<semester>.pdf`
+* NOTE: names are not case sensitive
 
 ## Contributors
 
