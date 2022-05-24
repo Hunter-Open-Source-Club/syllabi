@@ -64,9 +64,9 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 		<td align="center">
-			<a href="https://github.com/kkhan01">
+			<a href="https://github.com/khinshankhan">
 				<img src="https://avatars2.githubusercontent.com/u/22206867?s=460&u=6976a13e1988144b1b1440d576b885a02a263847&v=4" width="100px;" alt=""/><br>
-				<sub><b>kkhan01</b></sub>
+				<sub><b>khinshankhan</b></sub>
 			</a><br>
 		</td>
 		<td align="center">
@@ -178,9 +178,9 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 		<td align="center">
-			<a href="https://github.com/seamus-hunter">
+			<a href="https://github.com/seamus2002/">
 				<img src="https://avatars.githubusercontent.com/u/72629167?v=4" width="100px;" alt=""/><br>
-				<sub><b>seamus-hunter</b></sub>
+				<sub><b>seamus2002</b></sub>
 			</a><br>
 		</td>
 		<td align="center">
