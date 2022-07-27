@@ -4,7 +4,7 @@ This website contains the syllabi for computer science courses at Hunter College
 
 The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunterosc.org).
 
-If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section.
+If you have any syllabi to send in, please follow the directions in the [Adding New Syllabi](#adding-new-syllabi) section.
  
 ## Missing Syllabi
 
@@ -21,17 +21,25 @@ The courses currently missing are as follows:
 
 ## Adding New Syllabi
 
-NOTE: we don't support URLs to syllabi just yet. If you'd like, you can [open an issue](https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/issues/new?title=Syllabus%3A%20CS101%20-%20Intro%20to%20Foo&body=Share%20a%20URL%2C%20upload%20a%20PDF%2C%20say%20hello%2C%20etc...) and share the link with us so we could add it for you :). If you're lazy you can send us PDFs through there, too.
+NOTE: There are two different ways to add your syllabi!
 
-### New Courses
+### Option 1: Make a Pull Request
+
+If you want to practice your Git-Fu, you can try your hand at manually adding syllabi and then submitting your changes to us as a pull request. Feel free to [email us](mailto:open.source.club.hunter@gmail.com) if you need help!
+
+#### For New Courses
 If adding a syllabus for a new course that isn't listed on the webpage, add the course name to the [JSON schema](./_data/map.json) and create a new folder for it within the [courses/](./assets/courses) folder. Make sure the folder's name is appropriately formatted (e.g. `CS_127`) -- when in doubt follow the pattern of the other folders.
 
-### Existing Courses
+#### For Existing Courses
 Move your syllabus file into the corresponding course folder within [courses/](./assets/courses).
 
 The filename of your PDF should follow this format: `CS127_Ligorio_syllabus_s20.pdf`, or, more generally:
 * `<course code>_<professor>_syllabus_<semester>.pdf`
 * NOTE: names are not case sensitive
+
+### Option 2: Directly Send Us Your URLs & PDFs!
+If GitHub is too complex, send us the syllabi directly! [Open an issue](https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/issues/new?title=Syllabus%3A%20CS101%20-%20Intro%20to%20Foo&body=Share%20a%20URL%2C%20upload%20a%20PDF%2C%20say%20hello%2C%20etc...) and share syllabi links or PDFs on there, and we'll add it to the site for you :).
+
 
 ## Contributors
 
