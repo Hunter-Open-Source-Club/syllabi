@@ -10,7 +10,6 @@ If you have any syllabi to send in, please send us a pull request following the 
 
 The courses currently missing are as follows:
 
-* CSCI 39537 - Intro to APIs
 * CSCI 39538 - Advanced Python Programming
 * CSCI 39539 - Intro to Cryptography
 * CSCI 39540 - Flutter App Dev
