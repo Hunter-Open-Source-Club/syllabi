@@ -16,7 +16,6 @@ The courses currently missing are as follows:
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
 * CSCI 49376 - Big Data Technology
-* CSCI 49377 - Deep Learning
 
 ## Adding New Syllabi
 
@@ -224,6 +223,12 @@ Thank you to anyone that's helped out, we <3 you!
 			<a href="https://github.com/Henry-Cevallos">
 				<img src="https://avatars.githubusercontent.com/u/44214010?v=4" width="100px;" alt=""/><br>
 				<sub><b>Henry-Cevallos</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://github.com/defineEuclidian">
+				<img src="https://avatars.githubusercontent.com/u/56561858?v=4" width="100px;" alt=""/><br>
+				<sub><b>defineEuclidian</b></sub>
 			</a><br>
 		</td>
 	</tr>
