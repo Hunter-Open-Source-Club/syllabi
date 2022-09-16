@@ -10,14 +10,12 @@ If you have any syllabi to send in, please send us a pull request following the 
 
 The courses currently missing are as follows:
 
-* CSCI 39537 - Intro to APIs
 * CSCI 39538 - Advanced Python Programming
 * CSCI 39539 - Intro to Cryptography
 * CSCI 39540 - Flutter App Dev
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
 * CSCI 49376 - Big Data Technology
-* CSCI 49377 - Deep Learning
 
 ## Adding New Syllabi
 
@@ -222,10 +220,22 @@ Thank you to anyone that's helped out, we <3 you!
 			</a><br>
 		</td>
 		<td align="center">
+			<a href="https://github.com/Henry-Cevallos">
+				<img src="https://avatars.githubusercontent.com/u/44214010?v=4" width="100px;" alt=""/><br>
+				<sub><b>Henry-Cevallos</b></sub>
+			</a><br>
+		</td>
+		<td align="center">
+			<a href="https://github.com/defineEuclidian">
+				<img src="https://avatars.githubusercontent.com/u/56561858?v=4" width="100px;" alt=""/><br>
+				<sub><b>defineEuclidian</b></sub>
+			</a><br>
+		</td>
+    <td align="center">
 			<a href="https://github.com/irisshakya">
 				<img src="https://avatars.githubusercontent.com/u/46196492?v=4" width="100px;" alt=""/><br>
 				<sub><b>irisshakya</b></sub>
-			</a><br>
-		</td>
+      </a><br>
+    </td>
 	</tr>
 </table>
