@@ -221,5 +221,11 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Kamran Sajid</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/irisshakya">
+				<img src="https://avatars.githubusercontent.com/u/46196492?v=4" width="100px;" alt=""/><br>
+				<sub><b>irisshakya</b></sub>
+			</a><br>
+		</td>
 	</tr>
 </table>
