@@ -219,7 +219,7 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Kamran Sajid</b></sub>
 			</a><br>
 		</td>
-    <td align="center">
+		<td align="center">
 			<a href="https://github.com/Henry-Cevallos">
 				<img src="https://avatars.githubusercontent.com/u/44214010?v=4" width="100px;" alt=""/><br>
 				<sub><b>Henry-Cevallos</b></sub>
@@ -230,6 +230,6 @@ Thank you to anyone that's helped out, we <3 you!
 				<img src="https://avatars.githubusercontent.com/u/56561858?v=4" width="100px;" alt=""/><br>
 				<sub><b>defineEuclidian</b></sub>
 			</a><br>
-    </td>
+		</td>
 	</tr>
 </table>
