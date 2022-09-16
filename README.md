@@ -220,5 +220,12 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>Kamran Sajid</b></sub>
 			</a><br>
 		</td>
+		<td align="center">
+			<a href="https://github.com/Henry-Cevallos">
+				<img src="https://avatars.githubusercontent.com/u/44214010?v=4" width="100px;" alt=""/><br>
+				<sub><b>Henry-Cevallos</b></sub>
+			</a><br>
+		</td>
+
 	</tr>
 </table>
