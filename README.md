@@ -11,7 +11,6 @@ If you have any syllabi to send in, please send us a pull request following the 
 The courses currently missing are as follows:
 
 * CSCI 39538 - Advanced Python Programming
-* CSCI 39540 - Flutter App Dev
 * CSCI 39583 - Topics:Cloud Computing
 * CSCI 39585 - Android Application Development
 
