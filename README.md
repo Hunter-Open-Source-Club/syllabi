@@ -6,6 +6,10 @@ The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunter
 
 If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section.
  
+## New Website
+
+If you have any questions, ideas, or other feedback about the new iteration of the website, we set up a forum to discuss in https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/discussions/27.
+
 ## Missing Syllabi
 
 The courses currently missing are as follows:
