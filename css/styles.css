@@ -1,0 +1,99 @@
+body {
+	font-family: "Georgia", "Bitstream Vera Serif", serif;
+	text-align: center;
+}
+
+#main {
+	text-align: left;
+	display: inline-block;
+	min-width: 30%;
+	padding: 0% 2% 2% 2%;
+
+	background-color: white;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+#main h1 {
+	text-align: center;
+}
+
+#main a {
+	text-transform: capitalize;
+}
+
+.category {
+	padding: 0.5%;
+	border: 1px solid white;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.category[open]:hover {
+	background-color: lightgray;
+	transition: 0.5s;
+	box-shadow: inset 0 0 0 5px black;
+	padding-bottom: 2%;
+}
+
+.category-title {
+	padding: 0.5%;
+	cursor: pointer;
+	font-size: large;
+	outline: none;
+	position: sticky;
+	top: 0;
+	background-color: lightgray;
+	transition: 0.2s;
+}
+
+.category[open]:hover .category-title {
+	background-color: black;
+	color: white;
+	transition: 0.2s;
+	margin-bottom: 1.5%;
+}
+
+.courses {
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-top: 0.1em;
+	padding: 0.5em;
+
+	font-size: small;
+	font-family: monospace, courier;
+
+	border-radius: 10px;
+	border: 1px solid transparent;
+}
+
+.courses:hover {
+	background-color: darkgray;
+	border: 1px dashed black;
+}
+
+.course-title {
+	cursor: pointer;
+	outline: none;
+}
+
+.courses img {
+	width:  16px;
+	height:  16px;
+
+	margin-bottom:  2px;
+	margin-top:  2px;
+	margin-right: 0.5em;
+	vertical-align: middle;
+
+	border: 1px solid black;
+	border-radius: 3px;
+}
+
+@media only screen and (max-width: 725px) {
+	#main h1 { font-size: x-large }
+	.category-title {
+		border-radius: 10px;
+		padding: 1.5%;
+	}
+}
