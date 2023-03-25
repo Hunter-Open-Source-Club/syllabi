@@ -1,21 +1,10 @@
 document.body.onload = function() {
-	texture();
 	document.querySelectorAll('.category').forEach((el) => {
 		new Accordion(el);
 	});
 }
 
-function texture()
-{
-	/* const NTEXTURES = 37;
-	   let n = parseInt(1 + Math.random() * NTEXTURES); */
-
-	let n = 26; /* pick a specific texture for now */
-	let path = 'img/textures/texture' + n + '.png';
-	document.body.style.backgroundImage = 'url("' + path + '")';
-}
-
-/* facilitate animations for <details> elements, taken from 
+/* facilitate animations for <details> elements, taken from
 https://css-tricks.com/how-to-animate-the-details-element-using-waapi/ */
 class Accordion {
 	constructor(el) {
