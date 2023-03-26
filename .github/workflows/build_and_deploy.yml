@@ -35,7 +35,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build artifact
-        run: python build/build.py > index.html
+        run: >
+          for department in `ls syllabi`; do
+            python build/build.py "$department"
+          done
+      - name: Set landing page to CS syllabi page
+        run: cp cs.html index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
