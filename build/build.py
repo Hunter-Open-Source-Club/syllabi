@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 
 import utils
@@ -6,6 +7,10 @@ import config
 import syllabus
 
 def main():
+	try: config.init(department=sys.argv[1])
+	except IndexError:
+		utils.die('Usage:', sys.argv[0], '<department>')
+
 	html = open(config.HTML_TEMPLATE_PATH).read()
 	print(html.format(
 		title      = config.TITLE,

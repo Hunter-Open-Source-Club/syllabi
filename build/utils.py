@@ -8,6 +8,10 @@ import syllabus
 def log(*args, **kwargs):
 	print(*args, file=sys.stderr, **kwargs)
 
+def die(*args, **kwargs):
+	print(*args, file=sys.stderr, **kwargs)
+	exit(1)
+
 def sort_chronologically(syllabi_files):
 	def compare(file1, file2):
 		s1, s2 = syllabus.parse(file1), syllabus.parse(file2)
