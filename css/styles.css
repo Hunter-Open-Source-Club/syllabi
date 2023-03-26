@@ -93,6 +93,11 @@ body {
 	border-radius: 3px;
 }
 
+.empty-courses:hover {
+	background-color: rgba(255, 0, 0, 0.2);
+	text-decoration: line-through;
+}
+
 @media only screen and (max-width: 725px) {
 	#main h1 { font-size: x-large }
 	.category-title {

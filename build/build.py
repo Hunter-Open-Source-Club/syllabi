@@ -66,10 +66,11 @@ def course_map_to_html(course_map):
 				)
 				bullets.append(li)
 
+			bullets = '<ul>' + '\n'.join(bullets) + '</ul>' if bullets else ''
 			courses.append(course_html.format(
 				classname = 'courses',
 				summary   = '<summary class="course-title">' + course_name + '</summary>',
-				div       = '<div><ul>' + '\n'.join(bullets) + '</ul></div>'
+				div       = '<div>' + bullets + '</div>'
 			))
 
 		categories.append(category_html.format(

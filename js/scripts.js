@@ -2,6 +2,13 @@ document.body.onload = function() {
 	document.querySelectorAll('.category').forEach((el) => {
 		new Accordion(el);
 	});
+
+	document.querySelectorAll('.courses').forEach(course => {
+		let empty = !course.children[1].hasChildNodes();
+		if(empty) {
+			course.classList.add('empty-courses');
+		}
+	});
 }
 
 /* facilitate animations for <details> elements, taken from
