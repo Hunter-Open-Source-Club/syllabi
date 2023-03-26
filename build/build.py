@@ -29,8 +29,7 @@ def discover_syllabi_files(course_map):
 			course_path = config.SYLLABI_PATH + '/' + course_code.replace(' ', '_')
 			try: syllabi_files = os.listdir(course_path)
 			except FileNotFoundError:
-				course_map[category].pop(course_code)
-				continue
+				syllabi_files = []
 
 			course_name = course_map[category][course_code]
 			course_map[category][course_code] = {
