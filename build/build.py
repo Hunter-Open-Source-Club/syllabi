@@ -7,9 +7,11 @@ import config
 import syllabus
 
 def main():
-	try: config.init(department=sys.argv[1])
+	try: department = sys.argv[1]
 	except IndexError:
 		utils.die('Usage:', sys.argv[0], '<department>')
+
+	config.init(department)
 
 	html = open(config.HTML_TEMPLATE_PATH).read()
 	print(html.format(
@@ -20,7 +22,7 @@ def main():
 		background = config.BACKGROUND_PATH,
 		heading    = config.HEADING,
 		courses    = generate_course_html()
-	))
+	), file=open(department.lower() + '.html', 'w'))
 
 def generate_course_html():
 	course_map = json.loads(open(config.COURSEMAP_PATH).read())
