@@ -17,6 +17,7 @@ def main():
 		stylesheet = config.CSS_PATH,
 		favicon    = config.FAVICON_PATH,
 		script     = config.JS_PATH,
+		background = config.BACKGROUND_PATH,
 		heading    = config.HEADING,
 		courses    = generate_course_html()
 	))
