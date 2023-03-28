@@ -3,6 +3,12 @@ body {
 	text-align: center;
 }
 
+.center {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
 #main {
 	text-align: left;
 	display: inline-block;
@@ -16,10 +22,6 @@ body {
 
 #main h1 {
 	text-align: center;
-}
-
-#main a {
-	text-transform: capitalize;
 }
 
 .category {
@@ -91,9 +93,40 @@ body {
 	border-radius: 3px;
 }
 
+.courses a {
+	text-transform: capitalize;
+}
+
 .empty-courses:hover {
 	background-color: rgba(255, 0, 0, 0.2);
 	text-decoration: line-through;
+}
+
+#call-to-action {
+	font-size: 85%;
+	text-decoration: none;
+	color: deeppink;
+
+	border: 1px solid white;
+	box-shadow: 2px 2px white;
+	border-radius: 3px;
+	padding: 1px 3px 0px 1px;
+}
+
+#call-to-action:before {
+	content: url("../img/other/heart.gif");
+	vertical-align: middle;
+}
+
+#call-to-action:hover {
+	color: black;
+	background-color: deeppink;
+	border-color: black;
+	box-shadow: 2px 2px black;
+}
+
+#call-to-action-container {
+	margin-top: 2%;
 }
 
 @media only screen and (max-width: 725px) {
