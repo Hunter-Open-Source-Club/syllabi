@@ -1,0 +1,86 @@
+{
+  "Prequisites": {
+    "PHILO 101": "Introduction to Philosophy",
+    "PHILO 103": "Introduction to Logic and Critical Thinking",
+    "PHILO 104": "Introduction to Ethics",
+    "PHILO 106": "Philosophy, Politics and Society",
+    "PHILO 204": "Great Philosophers"
+  },
+  "Logic": {
+    "PHILO 170": "Introduction to Logic and Scientific Method",
+    "PHILO 275": "Symbolic Logic"
+  },
+  "History of Philosophy": {
+    "PHILO 212": "Classical Greek Mythology: Plato and Aristotle",
+    "PHILO 215": "Foundations of Modern Philosophy",
+    "PHILO 218": "Revolutions in Modern Philosophy"
+  },
+  "Ethics, Politics, and Aesthetics": {
+    "PHILO 244": "Moral Philosophy",
+    "PHILO 246": "Political Philosophy",
+    "PHILO 258": "Aesthetics"
+  },
+  "Metaphysics and Epistemology": {
+    "PHILO 360": "Metaphysics",
+    "PHILO 362": "Theory of Knowledge",
+    "PHILO 364": "Philosophy of Language",
+    "PHILO 366": "Philosophy of Mind",
+    "PHILO 378": "Philosophy of Biology",
+    "PHILO 379": "Philosophy of Science"
+  },
+  "Intensive Study of A Philosopher": {
+    "PHILO 38000": "Major Figures in Philosophy",
+    "PHILO 38010": "Plato",
+    "PHILO 38011": "Aristotle",
+    "PHILO 38020": "Plotinus",
+    "PHILO 38063": "Hume",
+    "PHILO 38068": "Kant",
+    "PHILO 38070": "Hegel",
+    "PHILO 38076": "Marx",
+    "PHILO 38078": "Nietzsche",
+    "PHILO 38080": "Wittgenstein",
+    "PHILO 38081": "Bertrand Russell",
+    "PHILO 38083": "Heidegger",
+    "PHILO 38086": "Foucault"
+  },
+  "Electives": {
+    "PHILO 200": "Topics in Philosophy",
+    "PHILO 201": "Knowledge and Reality",
+    "PHILO 214": "Medieval Philosophy",
+    "PHILO 219": "Chinese Philosophy",
+    "PHILO 221": "Indian Philosophy",
+    "PHILO 223": "Neoplatonism",
+    "PHILO 225": "American Philosophy",
+    "PHILO 226": "African-American Philosophy",
+    "PHILO 228": "Existentialism",
+    "PHILO 230": "Feminist Philosophy",
+    "PHILO 248": "International Ethics",
+    "PHILO 250": "Problems of Ethics and Society",
+    "PHILO 252": "Problems of Law and Morality",
+    "PHILO 254": "Ethical Issues in Biology and Medical Care",
+    "PHILO 255": "Environmental Philosophy",
+    "PHILO 256": "Philosophy and Literature",
+    "PHILO 262": "Philosophy of Religion",
+    "PHILO 266": "Knowledge and Reality",
+    "PHILO 268": "Mind, Language and Cognition",
+    "PHILO 270": "Philosophy, Science and Culture",
+    "PHILO 318": "Revolutions in Modern Philosophy",
+    "PHILO 319": "Marxist and Critical Theory",
+    "PHILO 320": "Twentieth-Century Philosophy",
+    "PHILO 344": "Contemporary Theories in Ethics",
+    "PHILO 346": "Contemporary Theories of Justice",
+    "PHILO 347": "Critical Philosophy of Race",
+    "PHILO 348": "Philosophy of Human Rights",
+    "PHILO 363": "Feminist and Social Epistemologies",
+    "PHILO 372": "Logic and Computers",
+    "PHILO 373": "Philosophy of History",
+    "PHILO 375": "Advanced Symbolic Logic",
+    "PHILO 376": "Philosophy of Mathematics",
+    "PHILO 377": "Non-classical Logic",
+    "PHILO 393": "Philosophical Systems",
+    "PHILO 394": "Philosophical Problems",
+    "PHILO 492": "Independent Study in Philosophy",
+    "PHILO 494": "Honors Tutorial in Philosophy",
+    "PHILO 498": "Internship"
+  }
+}
