@@ -1,37 +1,102 @@
-## Welcome to the Hunter College CS syllabi directory!
+## Welcome to the Hunter College syllabi directory! ![image][tree-image]
 
-This website contains the syllabi for computer science courses at Hunter College. Hopefully (through some crowdsourcing), we can get the syllabi for all undergraduate and graduate CS courses at Hunter.
+http://syllabi.hunterosc.org
 
-The site can currently be found at [syllabi.hunterosc.org](http://syllabi.hunterosc.org).
+This syllabus bank and its web infrastructure are an initiative by the Hunter College Open Source Club. The syllabi were generously provided by a number of students listed in the [Contributors](#contributors) section below.
 
-If you have any syllabi to send in, please send us a pull request following the directions in the [Adding New Syllabi](#adding-new-syllabi) section.
+The currently supported departments are:
+* [Computer Science](http://syllabi.hunterosc.org/cs)
+* [Philosophy](http://syllabi.hunterosc.org/philo)
+
+See the [How can I help?](#how-can-i-help) section to learn more about what you can do to help keep this project alive.
+
+## How can I help?
+
+Contents:
+* [Add new syllabi](#add-new-syllabi)
+* [Add missing faculty mugshots](#add-missing-faculty-mugshots)
+* [Add a new department](#add-new-department)
+* [Add new features to the website](#add-new-features-to-the-website)
+* [Provide feedback and suggest improvements](#provide-feedback-and-suggest-improvements)
+* [Advocate for things that will help this project](#advocate-for-things-that-will-help-this-project)
+
+We are happy to accept your changes in whatever format you are comfortable providing them. If you would like to try your hand at submitting a pull request with your change, you may find this [freeCodeCamp tutorial](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) helpful. Alternatively, you could [open an issue][new-issue-link], or send us an email at our `open.source.club.hunter@gmail.com` address. Some of the instructions below detail steps on a technical level, but remember that you can also talk to us informally at the venues we've mentioned above.
+
+---
+
+![image][butterfly-image] **NOTE**: To preview the website locally with your code changes applied, you can follow the instructions in the [Building the website locally](#building-the-website-locally) section.
+
+### Add new syllabi
+
+![image][butterfly-image] **NOTE**: We only support PDF files at this time. If you would like to share a URL to a course page, please [file an issue][new-issue-link].
+
+In order to upload a new syllabus:
+
+* Ensure your PDF's file name is in the canonical format: `<course code>_<professor>_syllabus_<semester>.pdf`
+    + For example, `CS127_ligorio_syllabus_s20.pdf`
+* Place the file into its corresponding department and course within the [`syllabi/`](syllabi/) directory
+    + For example, `CS127_ligorio_syllabus_s20.pdf` should go into `syllabi/CS/CS_127/`
  
-## New Website
+That's it!
+
+If you are adding a syllabus for a new course which isn't accounted for yet, you will first have to take these additional steps:
+* Create a new directory for the course under its department in [`syllabi/`](syllabi/)
+    + For example, `syllabi/CS/CS_127`
+* Add the new course to its department's course map in [`course_maps/`](course_maps/)
+    + For example, a new computer science course would belong in the `CS.json` course map
+
+### Add missing faculty mugshots
+
+We now support adding thumbnails of faculty members next to the courses they're teaching:
+
+<img width="647" alt="image" src="https://github.com/Hunter-Open-Source-Club/syllabi/assets/31445542/1cfb79cc-0d09-440b-bf43-24d89a054041">
+
+To add a thumbnail:
+* Place the image file in the [`img/faculty/`](img/faculty/) directory
+* The file name should correspond to the faculty member's name used in the syllabi files
+    + For example, to pair a thumbnail with `CS127_ligorio_syllabus_s20.pdf`, we would name the thumbnail file `ligorio.jpg`
+* The image should be in JPG format
+* Please try to keep the dimensions of the image within the low hundreds of pixels per side. The average image size is around `200x200`.
+
+### Add new department
+
+We've generalized our infrastructure to support multiple departments. Each department's syllabus bank gets published to a subpage denoted by its code , e.g. http://syllabi.hunterosc.org/philo for the philosophy department.
+
+A **department** is defined by the following:
+* A course map within the [`course_maps/`](course_maps/) directory, e.g. `course_maps/CS.json`
+* A directory for the department's syllabi files within the [`syllabi/`](syllabi/) directory, e.g. `syllabi/CS/`
+* Some configuration info in [`build/config.py`](build/config.py)
+    + Currently the department's full name (e.g. `"CS": "Computer Science"`), and a background selected from [`img/textures/`](img/textures/) (yes! we can customize the background per department). 
+    + This can be extended to further customize each department's page
+
+### Add new features to the website
+
+There is a lot of low-hanging fruit for improvements now that we've moved from [Jekyll](https://jekyllrb.com) to our own Python-driven build process and simplified our CSS, everything is customizable. We welcome your ideas and contributions. For large changes feel free to open an issue so we can brainstorm together.
+
+### Provide feedback and suggest improvements
 
 If you have any questions, ideas, or other feedback about the new iteration of the website, we set up a forum to discuss in https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/discussions/27.
 
-## Missing Syllabi
+### Advocate for things that will help this project
 
-The courses currently missing are as follows:
+* GitHub: [Add support for preview deployments internal alpha experiment](https://github.com/actions/deploy-pages/pull/61)
+    + If this is rolled out, we will be to build a preview website for every pull request. This will enable contributors to preview their contributions without having to run anything locally (and similarly, to help us review contributions without needing to sync them to our computers).
+* Talk to the CUNY Hunter department about allowing students to host websites from ENIAC
+    + Not only could it make for a very gratifying experience for students, but it can help us as a project implement many new interesting features. Currently the website is completely static -- we are using GitHub Pages for hosting, which comes with a set of limitations (there is no "backend"). See this article for an explanation of the limitations: https://www.wix.com/blog/static-vs-dynamic-website. As a simple example, if we hosted this website on ENIAC, we would be able to do something like keep a count of how many visitors we've had on each page, which departments and courses get the most traffic, etc. If we wanted to do this on a static website, we'd need to delegate to an external service like the draconian Google Analytics, which is out of the question (see: https://github.com/Hunter-Open-Source-Club/syllabi/issues/31)
+* Talk to the CUNY Hunter department about adopting this project and sponsoring its infrastructure costs
+    + Blake (@rvente) has been graciously paying for our domain for the last few years. In an ideal world the department would recognize the utility this project provides for the community and help us keep it running.
+* Advocate for making CUNYFirst accessible by an open and un-obfuscated API so that students could build programs that utilize it and improve one another's lives
+* Think of ways to help the CUNY Hunter student community at large. See Josh's (@joshnatis) writeup "*[Community Systems as a Learning Tool and Incentive](https://josh8.com/blog/Community_Systems.pdf): How a homegrown community and infrastructure
+ can encourage students to learn outside of class while encouraging camaraderie and the adoption of the open source spirit*" for some ideas.
 
-* CSCI 39538 - Advanced Python Programming
-* CSCI 39540 - Flutter App Dev
-* CSCI 39583 - Topics:Cloud Computing
-* CSCI 39585 - Android Application Development
-
-## Adding New Syllabi
-
-NOTE: we don't support URLs to syllabi just yet. If you'd like, you can [open an issue](https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/issues/new?title=Syllabus%3A%20CS101%20-%20Intro%20to%20Foo&body=Share%20a%20URL%2C%20upload%20a%20PDF%2C%20say%20hello%2C%20etc...) and share the link with us so we could add it for you :). If you're lazy you can send us PDFs through there, too.
-
-### New Courses
-If adding a syllabus for a new course that isn't listed on the webpage, add the course name to the [JSON schema](./_data/map.json) and create a new folder for it within the [courses/](./assets/courses) folder. Make sure the folder's name is appropriately formatted (e.g. `CS_127`) -- when in doubt follow the pattern of the other folders.
-
-### Existing Courses
-Move your syllabus file into the corresponding course folder within [courses/](./assets/courses).
-
-The filename of your PDF should follow this format: `CS127_Ligorio_syllabus_s20.pdf`, or, more generally:
-* `<course code>_<professor>_syllabus_<semester>.pdf`
-* NOTE: names are not case sensitive
+### Building the website locally
+Run the following (in any Unix shell, like `bash`) to generate HTML files for each department:
+```sh
+for department in `ls syllabi`; do
+    python3 build/build.py "$department"
+done
+```
+You can then open those HTML files in your browser and see how they look.
 
 ## Contributors
 
@@ -241,3 +306,7 @@ Thank you to anyone that's helped out, we <3 you!
 		</td>
 	</tr>
 </table>
+
+[new-issue-link]: https://github.com/Hunter-Open-Source-Club/HunterCS_CourseSyllabi/issues/new?title=Syllabus%3A%20CS101%20-%20Intro%20to%20Foo&body=Share%20a%20URL%2C%20upload%20a%20PDF%2C%20say%20hello%2C%20etc...
+[butterfly-image]: https://github.com/Hunter-Open-Source-Club/syllabi/assets/31445542/44e3b54e-5eb5-4533-aa53-568ae8d2f467
+[tree-image]: https://github.com/Hunter-Open-Source-Club/syllabi/assets/31445542/989ba1fb-7a00-44aa-89b8-84e28a0fcf85
