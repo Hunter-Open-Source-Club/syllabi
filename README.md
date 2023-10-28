@@ -316,6 +316,20 @@ Thank you to anyone that's helped out, we <3 you!
                                 <sub><b>CelesTech03</b></sub>
                         </a><br>
                 </td>
+                <td align="center">
+                        <a href="https://github.com/Nawang17">
+                                <img src="https://avatars.githubusercontent.com/u/77951020?v=4" width="100px;" alt=""/><br>
+                                <sub><b>Nawang17</b></sub>
+                        </a><br>
+                </td>
+	</tr>
+	<tr>
+                <td align="center">
+                        <a href="https://github.com/qizongliang">
+                                <img src="https://avatars.githubusercontent.com/u/72285030?v=4" width="100px;" alt=""/><br>
+                                <sub><b>qizongliang</b></sub>
+                        </a><br>
+                </td>
 	</tr>
 </table>
 
