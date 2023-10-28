@@ -310,6 +310,12 @@ Thank you to anyone that's helped out, we <3 you!
                                 <sub><b>A278PlusPi</b></sub>
                         </a><br>
                 </td>
+                <td align="center">
+                        <a href="https://github.com/CelesTech03">
+                                <img src="https://avatars.githubusercontent.com/u/57969388?v=4" width="100px;" alt=""/><br>
+                                <sub><b>CelesTech03</b></sub>
+                        </a><br>
+                </td>
 	</tr>
 </table>
 
