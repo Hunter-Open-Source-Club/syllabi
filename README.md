@@ -304,6 +304,12 @@ Thank you to anyone that's helped out, we <3 you!
 				<sub><b>irisshakya</b></sub>
 			</a><br>
 		</td>
+                <td align="center">
+                        <a href="https://github.com/A278PlusPi">
+                                <img src="https://avatars.githubusercontent.com/u/84871142?v=4" width="100px;" alt=""/><br>
+                                <sub><b>A278PlusPi</b></sub>
+                        </a><br>
+                </td>
 	</tr>
 </table>
 
