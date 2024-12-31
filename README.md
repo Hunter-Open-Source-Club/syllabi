@@ -330,6 +330,18 @@ Thank you to anyone that's helped out, we <3 you!
                                 <sub><b>qizongliang</b></sub>
                         </a><br>
                 </td>
+		<td align="center">
+                        <a href="https://github.com/DaTaDevo">
+                                <img src="https://avatars.githubusercontent.com/u/40675303?v=4" width="100px;" alt=""/><br>
+                                <sub><b>DaTaDevo</b></sub>
+                        </a><br>
+                </td>
+		<td align="center">
+                        <a href="https://github.com/kuwuwin">
+                                <img src="https://avatars.githubusercontent.com/u/32178410?v=4" width="100px;" alt=""/><br>
+                                <sub><b>kuwuwin</b></sub>
+                        </a><br>
+                </td>
 	</tr>
 </table>
 
